@@ -16,3 +16,8 @@ SETUP {
     python manage.py runserver
     python manage.py startapp Account }
 
+HIDE DJANGO_KEY {
+    make .env file in the location of settings.py
+    pip install python-decouple in same location
+    and change the settings.py
+}
