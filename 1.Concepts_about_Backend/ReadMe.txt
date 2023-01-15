@@ -1,3 +1,6 @@
+This is the readme file that you need to learn before starting
+Also, This is my note while learning the backend, make your own notes, but feel free to learn.
+
 To learn the roadmap:
 https://roadmap.sh/backend/
 
@@ -32,7 +35,11 @@ https://www.cloudflare.com/en-gb/learning/ddos/glossary/hypertext-transfer-proto
 ************************************************************************
 Git & Github
 ************************************************************************
-
-# Learn a Language
 Python -Django framework
-************************************************************************
+    :Basics
+    :OOP -> Classes, Inheritances 
+Relational Databases
+    :tables
+    :keys
+    :columns
+    :relationships
